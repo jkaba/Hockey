@@ -10,3 +10,5 @@ Intro to Hockey Analysis 1.R
 Intro to Hockey Analysis 2.R
 - Looking into the height, weight, and density of players from the 2018 NHL draft, specifically players drafted by the Canucks and Predators
 
+NCAA_USCHO Scraper.R
+- This R program scrapes the NCAA Div 1 hockey schedule + box scores, can be changed to get data for different seasons
