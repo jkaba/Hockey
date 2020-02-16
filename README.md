@@ -15,3 +15,6 @@ Intro to Hockey Analysis 2.R
 
 NCAA_USCHO Scraper.R
 - This R program scrapes the NCAA Div 1 hockey schedule + box scores, can be changed to get data for different seasons
+
+SHL Hockey Scraper
+- Scrapes Box scores for games played in the SHL (Swedish Hockey League) or Allsvenskan (Swedish 2nd league)
