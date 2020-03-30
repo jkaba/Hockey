@@ -4,6 +4,10 @@ Repo for Hockey related Projects
 This repo will be the home to Hockey projects which I have done.
 This ReadMe will be updated as files get uploaded.
 
+HG_tutorial.R
+- Hockey Graphs Introduction to R with Hockey data (https://hockey-graphs.com/2019/12/11/an-introduction-to-r-with-hockey-data/)
+- This program is basic data filtering and graph building using a small set of 4 Philadelphia Flyers games from November 2019
+
 Hockey_Reference_Simple_Scraper.R
 - This is a simple scraper which scrapes game summaries / box scores for specified seasons from hockeyreference.com
 
